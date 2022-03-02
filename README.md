@@ -1,6 +1,6 @@
-# nlw_heat_node
+# NLW Heat Impulse - Node
  
-Backend do projeto do NLW Heat (Rocketseat). Usa socket.io, authenticação com GitHub e Prisma ORM para envio de mensagens.
+[NLW Heat Impulse](https://app.rocketseat.com.br/node/mission-impulse-heat) Back-end project (Rocketseat). Uses socket.io, GitHub Authentication and Prisma ORM in order to send messages during the event.
 
 ### Related Projects
 
